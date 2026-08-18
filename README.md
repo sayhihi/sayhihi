@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=190&section=header&text=SEHEE%20PARK&fontSize=46&fontColor=ffffff&desc=Backend%20Developer&descSize=18&descAlignY=78&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SEHEE%20PARK&fontSize=46&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer&descSize=18&descAlignY=54&animation=fadeIn)
 
 </div>
 
