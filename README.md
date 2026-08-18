@@ -39,15 +39,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayhihi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=sayhihi&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="streak" />
-
-</div>
-
 ## 🚀 Projects
 
 - [nabigation](https://github.com/sayhihi/nabigation) — 비개발자를 위한 AI 입문 온보딩 데스크톱 펫 위젯 (Electron · React)
