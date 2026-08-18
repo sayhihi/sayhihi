@@ -1,12 +1,14 @@
-# 박세희 · Backend Developer
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=190&section=header&text=SEHEE%20PARK&fontSize=46&fontColor=ffffff&desc=Backend%20Developer&descSize=18&descAlignY=78&animation=fadeIn)
+
+</div>
 
 커뮤니티·채용 플랫폼의 백엔드를 3년간 0→1로 설계·운영해 왔습니다.
 결제 시스템의 멱등성·동시성 제어, 외부 API 연동, 서버리스 아키텍처를 주로 다루며,
 최근에는 LLM 기반 자동화 서비스(사내 Slack MCP, LLM 파이프라인)를 개발하고 있습니다.
 
-업무 코드는 사내 BitBucket에 있어 이곳 잔디는 조용한 편입니다.
-
-## Tech
+## 🛠 Tech
 
 **Backend**
 
@@ -37,9 +39,24 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
-## Projects
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayhihi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=sayhihi&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="streak" />
+
+</div>
+
+## 🚀 Projects
 
 - [nabigation](https://github.com/sayhihi/nabigation) — 비개발자를 위한 AI 입문 온보딩 데스크톱 펫 위젯 (Electron · React)
 - [치크루팅](https://chicruiting.com) — 치과 채용 플랫폼. 재직 중 0→1 구축·운영
 
+<div align="center">
+
 📧 sehii0327@gmail.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer)
+
+</div>
